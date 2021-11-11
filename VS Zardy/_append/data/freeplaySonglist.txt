@@ -1,0 +1,2 @@
+Foolhardy:zardy:0:Normal
+Bushwhack:zardyButDARK:0:Normal

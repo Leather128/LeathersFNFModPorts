@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Noob.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Noob Down0000" x="10" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0001" x="10" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0002" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0003" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0004" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0005" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0006" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0007" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0008" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0009" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0010" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0011" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0012" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0013" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0014" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0015" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0016" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0017" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0018" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0019" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0020" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0021" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0022" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0023" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0024" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0025" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0026" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0027" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0028" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0029" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Down0030" x="575" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0000" x="1140" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0001" x="1705" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0002" x="1705" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0003" x="1705" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0004" x="1705" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0005" x="1705" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0006" x="2270" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0007" x="2270" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0008" x="2270" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0009" x="2270" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0010" x="2835" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0011" x="2835" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0012" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0013" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0014" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0015" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0016" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down0017" x="3400" y="10" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20001" x="10" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20002" x="10" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20003" x="10" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20004" x="10" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20005" x="10" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20006" x="575" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20007" x="575" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20008" x="575" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20009" x="1140" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20010" x="1140" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20011" x="1140" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20012" x="1140" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20013" x="1705" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20014" x="1705" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20015" x="1705" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Get Down20016" x="2270" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Idle0000" x="2835" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Idle0001" x="3400" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Idle0002" x="3400" y="546" width="555" height="526"/>
+	<SubTexture name="Noob Idle0003" x="10" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0004" x="10" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0005" x="10" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0006" x="575" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0007" x="575" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0008" x="1140" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0009" x="1140" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Idle0010" x="1715" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0000" x="2280" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0001" x="2280" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0002" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0003" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0004" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0005" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0006" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0007" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0008" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0009" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0010" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0011" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0012" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0013" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0014" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0015" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0016" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0017" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0018" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0019" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0020" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0021" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0022" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0023" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0024" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0025" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0026" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0027" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0028" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Left0029" x="2845" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Right0000" x="3410" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Right0001" x="3410" y="1082" width="555" height="526"/>
+	<SubTexture name="Noob Right0002" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0003" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0004" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0005" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0006" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0007" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0008" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0009" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0010" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0011" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0012" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0013" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0014" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0015" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0016" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0017" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0018" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0019" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0020" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0021" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0022" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0023" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0024" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0025" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0026" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0027" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0028" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Right0029" x="10" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0000" x="575" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0001" x="575" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0002" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0003" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0004" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0005" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0006" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0007" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0008" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0009" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0010" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0011" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0012" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0013" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0014" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0015" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0016" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0017" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0018" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0019" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0020" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0021" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0022" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0023" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0024" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0025" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0026" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0027" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0028" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up0029" x="1140" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20000" x="1705" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20001" x="1705" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20002" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20003" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20004" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20005" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20006" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20007" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20008" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20009" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20010" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20011" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20012" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20013" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20014" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20015" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20016" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20017" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20018" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20019" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20020" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20021" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20022" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20023" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20024" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20025" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20026" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20027" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20028" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 20029" x="2270" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30000" x="2835" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30001" x="2835" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30002" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30003" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30004" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30005" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30006" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30007" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30008" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30009" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30010" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30011" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30012" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30013" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30014" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30015" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30016" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30017" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30018" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30019" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30020" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30021" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30022" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30023" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30024" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30025" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30026" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30027" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30028" x="3400" y="1618" width="555" height="526"/>
+	<SubTexture name="Noob Up 30029" x="3400" y="1618" width="555" height="526"/>
+</TextureAtlas>

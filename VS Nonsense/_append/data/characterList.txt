@@ -1,0 +1,7 @@
+bf-gun-intro:vsnonsense
+bf-nonsense:vsnonsense
+nonsense:vsnonsense
+nonsense-tired:vsnonsense
+nonsense-pissed:vsnonsense
+nonsense-mad:vsnonsense
+nonsense-god:vsnonsense

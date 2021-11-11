@@ -1,0 +1,44 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "arch",
+    "spritesheetType": "SPARROW",
+    "barColor": [102, 102, 102],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "arch",
+            "fps": 24,
+            "looped": false,
+            "indices": [0]
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "arch",
+            "fps": 24,
+            "looped": false,
+            "indices": [3]
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "arch",
+            "fps": 24,
+            "looped": false,
+            "indices": [4]
+        },
+        {
+            "name": "singUP",
+            "animation_name": "arch",
+            "fps": 24,
+            "looped": false,
+            "indices": [2]
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "arch",
+            "fps": 24,
+            "looped": false,
+            "indices": [1]
+        }
+    ]
+}

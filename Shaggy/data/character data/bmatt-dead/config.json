@@ -1,0 +1,26 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "bmatt_lost",
+    "spritesheetType": "SPARROW",
+    "animations": [
+        {
+            "name": "firstDeath",
+            "animation_name": "matt lose start",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "deathLoop",
+            "animation_name": "matt lose loop",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "deathConfirm",
+            "animation_name": "matt lose retry",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+idle 0 0
+singUP -6 0
+singRIGHT 20 -5
+singLEFT -10 -1
+singDOWN 10 -10
+save 0 0
+knifepoint 0 0

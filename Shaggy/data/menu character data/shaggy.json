@@ -1,0 +1,9 @@
+{
+    "Animation_Name": "M Shaggy Idle",
+    "Animation_Looped": true,
+    "FPS": 24,
+    "Size": 1,
+    "Offsets": [0, 10],
+    "File_Name": "Menu_Shaggy",
+    "Flipped": false
+}

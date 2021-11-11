@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="arena-characters.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg-characters0000" x="5" y="5" width="2560" height="311" frameX="0" frameY="-33" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0001" x="5" y="5" width="2560" height="311" frameX="0" frameY="-33" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0002" x="5" y="321" width="2560" height="321" frameX="0" frameY="-23" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0003" x="5" y="321" width="2560" height="321" frameX="0" frameY="-23" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0004" x="5" y="647" width="2560" height="330" frameX="0" frameY="-14" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0005" x="5" y="647" width="2560" height="330" frameX="0" frameY="-14" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0006" x="5" y="982" width="2560" height="338" frameX="0" frameY="-5" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0007" x="5" y="982" width="2560" height="338" frameX="0" frameY="-5" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0008" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0009" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0010" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0011" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0012" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+	<SubTexture name="bg-characters0013" x="5" y="1325" width="2560" height="342" frameX="0" frameY="0" frameWidth="2560" frameHeight="344"/>
+</TextureAtlas>

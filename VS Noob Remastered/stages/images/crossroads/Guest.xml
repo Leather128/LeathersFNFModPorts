@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Guest.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Guest Idle0000" x="10" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0001" x="704" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0002" x="704" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0003" x="1398" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0004" x="2092" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0005" x="2786" y="10" width="684" height="728"/>
+	<SubTexture name="Guest Idle0006" x="10" y="748" width="684" height="728"/>
+	<SubTexture name="Guest Idle0007" x="704" y="748" width="684" height="728"/>
+	<SubTexture name="Guest Idle0008" x="1398" y="748" width="684" height="728"/>
+	<SubTexture name="Guest Idle0009" x="2092" y="748" width="684" height="728"/>
+	<SubTexture name="Guest Idle0010" x="2786" y="748" width="684" height="728"/>
+	<SubTexture name="Guest Idle0011" x="10" y="1486" width="684" height="728"/>
+	<SubTexture name="Guest Idle0012" x="704" y="1486" width="684" height="728"/>
+	<SubTexture name="Guest Idle0013" x="1398" y="1486" width="684" height="728"/>
+	<SubTexture name="Guest Idle0014" x="2092" y="1486" width="684" height="728"/>
+	<SubTexture name="Guest Idle0015" x="2786" y="1486" width="684" height="728"/>
+	<SubTexture name="Guest Idle0016" x="10" y="2224" width="684" height="728"/>
+	<SubTexture name="Guest Idle0017" x="704" y="2224" width="684" height="728"/>
+	<SubTexture name="Guest Idle0018" x="1398" y="2224" width="684" height="728"/>
+	<SubTexture name="Guest Idle0019" x="2092" y="2224" width="684" height="728"/>
+	<SubTexture name="Guest Idle0020" x="2786" y="2224" width="684" height="728"/>
+	<SubTexture name="Guest Idle0021" x="10" y="2962" width="684" height="728"/>
+	<SubTexture name="Guest Idle0022" x="704" y="2962" width="684" height="728"/>
+</TextureAtlas>

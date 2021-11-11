@@ -1,0 +1,42 @@
+{
+    "character_Positions":[
+        [1100, 800],
+        [300, 800],
+        [750, 700]
+    ],
+    "camera_Zoom": 0.8,
+    "objects": [
+        {
+            "position":[-500, -200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "arena-bg",
+            "is_Animated": false
+        },
+        {
+            "position":[-535, 140],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "arena-characters",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "beatHit",
+                    "animation_name": "bg-characters",
+                    "fps": 24,
+                    "looped": false
+                }
+            ]
+        },
+        {
+            "position":[-500, 325],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "railing",
+            "is_Animated": false
+        }
+    ]
+}

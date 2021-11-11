@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GuestDeath2P2.png">
+<SubTexture name="GuestDeath2P2 idle0000" x="0" y="0" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0001" x="2086" y="0" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0002" x="4172" y="0" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0003" x="6258" y="0" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0004" x="0" y="1545" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0005" x="2086" y="1545" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0006" x="4172" y="1545" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0007" x="6258" y="1545" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0008" x="0" y="3090" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0009" x="2086" y="3090" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0010" x="4172" y="3090" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0011" x="6258" y="3090" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0012" x="0" y="4635" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0013" x="2086" y="4635" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0014" x="4172" y="4635" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0015" x="6258" y="4635" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0016" x="0" y="6180" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0017" x="2086" y="6180" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0018" x="4172" y="6180" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0019" x="6258" y="6180" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0020" x="0" y="7725" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0021" x="2086" y="7725" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0022" x="4172" y="7725" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0023" x="6258" y="7725" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0024" x="0" y="9270" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0025" x="2086" y="9270" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0026" x="4172" y="9270" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0027" x="6258" y="9270" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0028" x="0" y="10815" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+<SubTexture name="GuestDeath2P2 idle0029" x="2086" y="10815" width="2086" height="1545" frameX="0" frameY="0" frameWidth="2086" frameHeight="1545" />
+</TextureAtlas>

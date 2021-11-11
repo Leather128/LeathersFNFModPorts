@@ -1,0 +1,116 @@
+{
+    "groupName": "VS Shaggy",
+    "pathName": "shaggy",
+    "weeks": [
+        {
+            "imagePath": "week0",
+            "songs": [
+                "Where Are You",
+                "Eruption",
+                "Kaio Ken"
+            ],
+            "characters": [
+                "shaggy",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "First Encounter",
+            "difficulties": [
+                ["easy", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        },
+        {
+            "imagePath": "week1",
+            "songs": [
+                "Whats New",
+                "Blast",
+                "Super Saiyan"
+            ],
+            "characters": [
+                "shaggy",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "The Rematch",
+            "difficulties": [
+                ["easy", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        },
+        {
+            "imagePath": "week2",
+            "songs": [
+                "GOD EATER"
+            ],
+            "characters": [
+                "pshaggy",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Ultimate Destruction",
+            "difficulties": [
+                ["easy", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        },
+        {
+            "imagePath": "week3",
+            "songs": [
+                "Power Link",
+                "Revenge",
+                "Final Destination"
+            ],
+            "characters": [
+                "shaggymatt",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Cruel Revelation",
+            "difficulties": [
+                ["normal", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        },
+        {
+            "imagePath": "week4",
+            "songs": [
+                "Soothing Power",
+                "Thunderstorm",
+                "Dissasembler"
+            ],
+            "characters": [
+                "rshaggy",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Bonus Match",
+            "difficulties": [
+                ["easy", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        },
+        {
+            "imagePath": "week5",
+            "songs": [
+                "Astral Calamity"
+            ],
+            "characters": [
+                "wbshaggy",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Special Kombat with the third of his kind",
+            "difficulties": [
+                ["normal", "shaggy/mania"],
+                ["normal", "shaggy/easy"],
+                ["hard", "shaggy/canon"]
+            ]
+        }
+    ]
+}

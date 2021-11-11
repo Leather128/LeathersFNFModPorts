@@ -1,0 +1,42 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "BOYFRIEND_NONSENSE",
+    "spritesheetType": "SPARROW",
+    "barColor": [81, 201, 219],
+    "offsetsFlipWhenEnemy": true,
+    "offsetsFlipWhenPlayer": false,
+    "healthIcon": "bf",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "BF gun away instance",
+            "fps": 1,
+            "looped": false
+        },
+        {
+            "name": "singLEFTmiss",
+            "animation_name": "BF NOTE LEFT MISS",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWNmiss",
+            "animation_name": "BF NOTE DOWN MISS",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUPmiss",
+            "animation_name": "BF NOTE UP MISS",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHTmiss",
+            "animation_name": "BF NOTE RIGHT MISS",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

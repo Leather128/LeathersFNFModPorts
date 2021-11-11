@@ -1,0 +1,58 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "Noob",
+    "spritesheetType": "SPARROW",
+    "barColor": [243, 207, 10],
+    "cameraOffset": [100, 11],
+    "positionOffset": [-25,25],
+    "trail": true,
+    "trailLength": 4,
+    "trailDelay": 24,
+    "trailStalpha": 0.3,
+    "trailDiff": 0.069,
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Noob Idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Noob Right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Noob Down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Noob Up0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP2",
+            "animation_name": "Noob Up 2",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP3",
+            "animation_name": "Noob Up 3",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Noob Left",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

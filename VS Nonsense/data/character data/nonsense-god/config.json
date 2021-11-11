@@ -1,0 +1,70 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "Nonsense_God",
+    "spritesheetType": "SPARROW",
+    "barColor":  [116, 231, 255],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idle god",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "left god",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "God down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "god right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "god right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "die",
+            "animation_name": "die god",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT-alt",
+            "animation_name": "left god",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN-alt",
+            "animation_name": "God down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP-alt",
+            "animation_name": "god up long note",
+            "fps": 24,
+            "looped": false,
+            "indices": [0, 2, 3, 4, 5, 6, 7]
+        },
+        {
+            "name": "singRIGHT-alt",
+            "animation_name": "god right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

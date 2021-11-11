@@ -1,0 +1,18 @@
+{
+    "character_Positions":[
+        [1100, 1100],
+        [300, 1100],
+        [750, 1000]
+    ],
+    "camera_Zoom": 0.9,
+    "objects": [
+        {
+            "position":[-400, -160],
+            "scroll_Factor": [0.95, 0.95],
+            "scale": 1.5,
+            "antialiased": true,
+            "file_Name": "bg_lemon",
+            "is_Animated": false
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="swagswag.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="swagExpand0000" x="0" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0001" x="0" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0002" x="0" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0003" x="1281" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0004" x="2562" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0005" x="3843" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0006" x="5124" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0007" x="6405" y="0" width="1281" height="720"/>
+	<SubTexture name="swagExpand0008" x="0" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0009" x="1281" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0010" x="2562" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0011" x="3843" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0012" x="5124" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0013" x="6405" y="720" width="1281" height="720"/>
+	<SubTexture name="swagExpand0014" x="7686" y="720" width="223" height="604" frameX="-1058" frameY="0" frameWidth="1281" frameHeight="720"/>
+	<SubTexture name="swagExpand0015" x="7909" y="720" width="96" height="220" frameX="-1185" frameY="0" frameWidth="1281" frameHeight="720"/>
+	<SubTexture name="swagExpand0016" x="8005" y="720" width="0" height="0" frameX="1" frameY="0" frameWidth="1281" frameHeight="720"/>
+	<SubTexture name="empty0000" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="swagLight0000" x="0" y="1440" width="1280" height="720"/>
+	<SubTexture name="swagLight0001" x="1280" y="1440" width="1166" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0002" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0003" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0004" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0005" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0006" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0007" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0008" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0009" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0010" x="2446" y="1440" width="931" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="swagLight0011" x="3377" y="1440" width="1280" height="720"/>
+	<SubTexture name="swagLight0012" x="4657" y="1440" width="1280" height="720"/>
+	<SubTexture name="swagLight0013" x="5937" y="1440" width="1280" height="720"/>
+	<SubTexture name="swagLight0014" x="0" y="2160" width="1280" height="720"/>
+	<SubTexture name="swagLight0015" x="1280" y="2160" width="1280" height="720"/>
+	<SubTexture name="swagLight0016" x="2560" y="2160" width="1280" height="720"/>
+</TextureAtlas>

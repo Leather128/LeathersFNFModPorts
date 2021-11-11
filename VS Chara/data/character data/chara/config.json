@@ -1,0 +1,50 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "chara/chara",
+    "spritesheetType": "SPARROW",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "chara0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "chara left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "chara down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "chara up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "chara right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "save",
+            "animation_name": "chara zave",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "knifepoint",
+            "animation_name": "chara zrick",
+            "fps": 24,
+            "looped": true
+        }
+    ]
+}

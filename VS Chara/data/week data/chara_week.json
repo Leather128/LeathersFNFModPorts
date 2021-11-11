@@ -1,0 +1,18 @@
+{
+    "groupName": "VS Chara",
+    "pathName": "chara",
+    "weeks": [
+        {
+            "imagePath": "charaWeek",
+            "songs": [
+                "Megalo Strike Back"
+            ],
+            "characters": [
+                "dad",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "VS Chara"
+        }
+    ]
+}

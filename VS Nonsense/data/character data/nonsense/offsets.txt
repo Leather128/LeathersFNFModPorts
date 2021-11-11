@@ -1,0 +1,8 @@
+danceLeft 0 0
+danceRight 0 0
+singUP 14 17
+singRIGHT 20 -10
+singLEFT 7 -18
+singDOWN -2 -52
+sweat -8 -4
+bruh 0 0

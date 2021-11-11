@@ -1,0 +1,5 @@
+Common Sense:nonsense:1:Baby,Easy,Normal,Hard:#74E7FF
+Highlights:nonsense:1:Baby,Easy,Normal,Hard:#74E7FF
+Context:nonsense:1:Baby,Easy,Normal,Hard:#74E7FF
+Nonsense:nonsense-god:2:Baby,Easy,Normal,Hard,Old:#74E7FF
+Nonsensical:nonsense-god:2:Easy,Normal,Hard,Old:#74E7FF

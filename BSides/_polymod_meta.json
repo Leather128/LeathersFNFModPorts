@@ -1,0 +1,8 @@
+{
+	"title":"FNF BSides",
+	"description":"Port of BSides",
+	"author":"Rosebud or something I guess",
+	"api_version":"0.3.6",
+	"mod_version":"1.0.0",
+	"license":"Apache 2.0"
+}

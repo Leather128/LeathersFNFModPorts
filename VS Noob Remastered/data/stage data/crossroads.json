@@ -1,0 +1,134 @@
+{
+    "character_Positions":[
+        [1000, 825],
+        [300, 825],
+        [600, 750]
+    ],
+    "camera_Zoom": 0.9,
+    "objects": [
+        {
+            "position":[-150, 44],
+            "scroll_Factor": [0.7, 0.7],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "sky",
+            "is_Animated": false
+        },
+        {
+            "position":[230, 210],
+            "scroll_Factor": [0.7, 0.7],
+            "scale": 0.7,
+            "antialiased": true,
+            "file_Name": "bggamers",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "beatHit",
+                    "animation_name": "Background Bois (toadver) BGChar",
+                    "fps": 54,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "beatHit"
+        },
+        {
+            "position":[-250, 25],
+            "scroll_Factor": [1, 1],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "floor",
+            "is_Animated": false
+        },
+        {
+            "position":[-250,-100],
+            "scroll_Factor": [1, 1],
+            "scale": 1.6,
+            "antialiased": true,
+            "file_Name": "spotlight",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "bruh",
+                    "animation_name": "empty",
+                    "fps": 24,
+                    "looped": false
+                },
+                {
+                    "name": "light1",
+                    "animation_name": "swagLight",
+                    "fps": 36,
+                    "looped": false
+                },
+                {
+                    "name": "light2",
+                    "animation_name": "swagExpand",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "bruh",
+            "layer": "foreground",
+            "object_Name": "light"
+        },
+        {
+            "position":[37, 251],
+            "scroll_Factor": [1,1],
+            "scale": 0.7,
+            "antialiased": true,
+            "file_Name": "Nooblings",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "beatHit",
+                    "animation_name": "Nooblings Idle",
+                    "fps": 42,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "beatHit",
+            "object_Name": "nooblings"
+        },
+        {
+            "position":[697, 137],
+            "scroll_Factor": [1,1],
+            "scale": 0.7,
+            "antialiased": true,
+            "file_Name": "Guest",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "beatHit",
+                    "animation_name": "Guest Idle",
+                    "fps": 42,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "beatHit",
+            "object_Name": "guest"
+        },
+        {
+            "position":[1032, 191],
+            "scroll_Factor": [1,1],
+            "scale": 0.7,
+            "antialiased": true,
+            "file_Name": "Builderman",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "beatHit",
+                    "animation_name": "Builderman Idle",
+                    "fps": 42,
+                    "looped": false
+                },
+                {
+                    "name": "scared",
+                    "animation_name": "Builderman Shock",
+                    "fps": 42,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "beatHit",
+            "object_Name": "builderman"
+        }
+    ]
+}

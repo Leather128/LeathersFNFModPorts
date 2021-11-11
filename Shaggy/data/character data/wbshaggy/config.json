@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "shaggy_green",
+    "spritesheetType": "SPARROW",
+    "barColor": [0,0,0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "b_Idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "b_Left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "b_Down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "b_Up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "b_Right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "shaggy_phantom",
+    "spritesheetType": "SPARROW",
+    "barColor": [20,72,0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "phantom_idle0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "phantom_left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "phantom_down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "phantom_up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "phantom_right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

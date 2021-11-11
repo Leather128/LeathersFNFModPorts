@@ -1,0 +1,15 @@
+Whats New:shaggy:1:Easy,Normal,Hard:#33724A
+Eruption:shaggy:1:Easy,Normal,Hard:#33724A
+Kaio Ken:sshaggy:1:Easy,Normal,Hard:#33724A
+Where Are You:shaggy:2:Easy,Normal,Hard:#33724A
+Blast:sshaggy:2:Easy,Normal,Hard:#33724A
+Super Saiyan:sshaggy:2:Easy,Normal,Hard:#33724A
+GOD EATER:pshaggy:3:Easy,Normal,Hard:#4B3372
+Power Link:rshaggy:4:Normal,Hard:#D11A1A
+Revenge:bmatt:4:Normal,Hard:#FF8C00
+Final Destination:bmatt:4:Normal,Hard,God:#FF8C00
+Soothing Power:rshaggy:5:Easy,Normal,Hard:#D11A1A
+Thunderstorm:rshaggy:5:Easy,Normal,Hard:#D11A1A
+Dissasembler:rshaggy:5:Easy,Normal,Hard:#D11A1A
+Astral Calamity:wbshaggy:6:Normal,Hard:#0F0F0F
+Talladega:zshaggy:6:Normal,Hard:#144800

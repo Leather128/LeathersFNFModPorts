@@ -1,0 +1,3 @@
+firstDeath 20 0
+deathLoop -4 -10
+deathConfirm 26 0

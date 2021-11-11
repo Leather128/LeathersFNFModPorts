@@ -1,0 +1,59 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": true,
+    "imagePath": "Nonsense",
+    "spritesheetType": "SPARROW",
+    "barColor":  [116, 231, 255],
+    "animations": [
+        {
+            "name": "danceLeft",
+            "animation_name": "Idle",
+            "fps": 24,
+            "looped": false,
+            "indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        },
+        {
+            "name": "danceRight",
+            "animation_name": "Idle",
+            "fps": 24,
+            "looped": false,
+            "indices": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "NoteLeft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "NoteDown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "NoteUp",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "NoteRight",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "sweat",
+            "animation_name": "oh no",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "bruh",
+            "animation_name": "Bruh",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

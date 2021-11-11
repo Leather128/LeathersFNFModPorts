@@ -1,0 +1,50 @@
+{
+    "character_Positions":[
+        [1250, 900],
+        [175, 875],
+        [800, 825]
+    ],
+    "camera_Zoom": 0.8,
+    "objects": [
+        {
+            "position":[-1204, -456],
+            "scroll_Factor": [0.15, 0.15],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "sky",
+            "is_Animated": false
+        },
+        {
+            "position":[-988, -260],
+            "scroll_Factor": [0.25, 0.25],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "clouds",
+            "is_Animated": false
+        },
+        {
+            "position":[-700, -40],
+            "scroll_Factor": [0.4, 0.4],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "backmount",
+            "is_Animated": false
+        },
+        {
+            "position":[-240, 200],
+            "scroll_Factor": [0.6, 0.6],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "middlemount",
+            "is_Animated": false
+        },
+        {
+            "position":[-660, 624],
+            "scroll_Factor": [1, 1],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "ground",
+            "is_Animated": false
+        }
+    ]
+}

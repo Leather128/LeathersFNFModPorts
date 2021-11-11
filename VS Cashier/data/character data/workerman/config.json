@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "workerman",
+    "spritesheetType": "SPARROW",
+    "barColor": [231, 211, 104],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "workerman idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "workerman left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "workerman down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "workerman up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "workerman rigth",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

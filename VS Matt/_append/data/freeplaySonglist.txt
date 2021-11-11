@@ -1,0 +1,5 @@
+Light It Up:matt:0:Easy,Normal,Hard,Old:#FF8C00
+Ruckus:matt:0:Easy,Normal,Hard,Old:#FF8C00
+Target Practice:matt:0:Easy,Normal,Hard,Old:#FF8C00
+Sporting:mattmad:1:Easy,Normal,Hard:#FF8C00
+Boxing Match:mattmad:1:Easy,Normal,Hard:#FF8C00
