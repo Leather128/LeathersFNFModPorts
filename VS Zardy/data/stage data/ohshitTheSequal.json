@@ -1,0 +1,27 @@
+{
+    "character_Positions":[
+        [1050, 1000],
+        [175, 1000],
+        [600, 950]
+    ],
+    "camera_Zoom": 0.7,
+    "objects": [
+        {
+            "position":[-600, -200],
+            "scroll_Factor": [1, 1],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "Zardy2BG",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "Maze",
+                    "animation_name": "BG",
+                    "fps": 24,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "Maze"
+        }
+    ]
+}

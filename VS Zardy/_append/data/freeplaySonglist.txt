@@ -1,2 +1,2 @@
-Foolhardy:zardy:0:Normal
-Bushwhack:zardyButDARK:0:Normal
+Foolhardy:zardy:0:Normal:#BA7B42
+Bushwhack:zardyButDARK:0:Normal:#2E1E10

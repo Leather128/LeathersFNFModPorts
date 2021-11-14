@@ -1,7 +1,7 @@
 {
  "song": {
   "player1": "bf",
-  "gfVersion": "gf",
+  "gf": "",
   "modchartPath":"bushwhack_chart",
   "notes": [
    {
@@ -55384,7 +55384,7 @@
   "chartVersion": "KE1",
   "song": "Bushwhack",
   "needsVoices": true,
-  "stage": "stage",
+  "stage": "ohshitTheSequal",
   "validScore": true,
   "bpm": 193,
   "speed": 2.8,

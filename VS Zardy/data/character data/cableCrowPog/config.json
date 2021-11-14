@@ -4,7 +4,7 @@
     "imagePath": "Cablecrow",
     "spritesheetType": "SPARROW",
     "barColor":  [186, 123, 66],
-    "positionOffset": [-50, 150],
+    "positionOffset": [0, 150],
     "animations": [
         {
             "name": "idle",

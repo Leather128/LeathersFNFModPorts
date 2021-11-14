@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="matt_chill.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Matt ChillDown0000" x="0" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0001" x="0" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0002" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0003" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0004" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0005" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0006" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0007" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0008" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0009" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0010" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0011" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0012" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillDown0013" x="458" y="0" width="458" height="417"/>
+	<SubTexture name="Matt ChillIdle0000" x="916" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0001" x="916" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0002" x="1361" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0003" x="1361" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0004" x="1806" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0005" x="1806" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0006" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0007" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0008" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0009" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0010" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0011" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0012" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillIdle0013" x="2251" y="0" width="445" height="451"/>
+	<SubTexture name="Matt ChillLeft0000" x="2696" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0001" x="2696" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0002" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0003" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0004" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0005" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0006" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0007" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0008" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0009" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0010" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0011" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillLeft0012" x="3178" y="0" width="482" height="424"/>
+	<SubTexture name="Matt ChillRight0000" x="0" y="451" width="492" height="425"/>
+	<SubTexture name="Matt ChillRight0001" x="0" y="451" width="492" height="425"/>
+	<SubTexture name="Matt ChillRight0002" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0003" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0004" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0005" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0006" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0007" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0008" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0009" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0010" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0011" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillRight0012" x="492" y="451" width="492" height="423" frameX="0" frameY="-2" frameWidth="492" frameHeight="425"/>
+	<SubTexture name="Matt ChillSnap0000" x="984" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0001" x="1424" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0002" x="1864" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0003" x="2304" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0004" x="2304" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0005" x="2744" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0006" x="3184" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0007" x="3624" y="451" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0008" x="0" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0009" x="440" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0010" x="440" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0011" x="880" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0012" x="1320" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0013" x="1320" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0014" x="1320" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillSnap0015" x="1320" y="907" width="440" height="456"/>
+	<SubTexture name="Matt ChillUp0000" x="1760" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0001" x="1760" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0002" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0003" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0004" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0005" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0006" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0007" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0008" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0009" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0010" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0011" x="2182" y="907" width="422" height="462"/>
+	<SubTexture name="Matt ChillUp0012" x="2182" y="907" width="422" height="462"/>
+</TextureAtlas>

@@ -1,0 +1,46 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "matt_chill",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 140, 0],
+    "healthIcon": "matt",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Matt ChillIdle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Matt ChillLeft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Matt ChillDown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Matt ChillUp",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Matt ChillRight",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "snap",
+            "animation_name": "Matt ChillSnap",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

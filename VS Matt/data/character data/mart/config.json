@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "mart_fartsetts",
+    "spritesheetType": "SPARROW",
+    "barColor": [162, 72, 82],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "mart idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "mart left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "mart down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "mart up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "mart right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "troll",
+            "animation_name": "mart troll",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

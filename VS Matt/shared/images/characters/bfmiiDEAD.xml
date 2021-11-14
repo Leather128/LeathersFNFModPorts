@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfmiiDEAD.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF DEAD LOOP0000" x="0" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0001" x="405" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0002" x="405" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0003" x="810" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0004" x="810" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0005" x="1215" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0006" x="1215" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0007" x="1620" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0008" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0009" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0010" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0011" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0012" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0013" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0014" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0015" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0016" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0017" x="0" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0018" x="405" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0019" x="405" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0020" x="810" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0021" x="810" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0022" x="1215" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0023" x="1215" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0024" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0025" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0026" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0027" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0028" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0029" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0030" x="1620" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0031" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0032" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF DEAD LOOP0033" x="2025" y="0" width="405" height="435"/>
+	<SubTexture name="BF MII CONFIRM0000" x="2430" y="0" width="405" height="435" frameX="0" frameY="-64" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0001" x="2835" y="0" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0002" x="3240" y="0" width="405" height="499"/>
+	<SubTexture name="BF MII CONFIRM0003" x="3645" y="0" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0004" x="0" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0005" x="405" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0006" x="810" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0007" x="1215" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0008" x="1620" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0009" x="2025" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0010" x="2430" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0011" x="2835" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0012" x="3240" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0013" x="3645" y="499" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0014" x="0" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0015" x="405" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0016" x="810" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0017" x="1215" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0018" x="1620" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0019" x="2025" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0020" x="2430" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0021" x="2835" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0022" x="3240" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0023" x="3240" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0024" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0025" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0026" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0027" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0028" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0029" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0030" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0031" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0032" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII CONFIRM0033" x="3645" y="968" width="405" height="469" frameX="0" frameY="-30" frameWidth="405" frameHeight="499"/>
+	<SubTexture name="BF MII dies0000" x="0" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0001" x="394" y="1437" width="395" height="412" frameX="-14" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0002" x="789" y="1437" width="395" height="412" frameX="-14" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0003" x="1184" y="1437" width="400" height="412" frameX="-9" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0004" x="1584" y="1437" width="400" height="412" frameX="-9" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0005" x="1984" y="1437" width="400" height="412" frameX="-9" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0006" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0007" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0008" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0009" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0010" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0011" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0012" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0013" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0014" x="2384" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0015" x="2778" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0016" x="2778" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0017" x="2778" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0018" x="3172" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0019" x="3172" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0020" x="3566" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0021" x="3566" y="1437" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0022" x="0" y="1849" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0023" x="0" y="1849" width="394" height="412" frameX="-15" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0024" x="394" y="1849" width="403" height="412" frameX="-6" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0025" x="797" y="1849" width="409" height="439"/>
+	<SubTexture name="BF MII dies0026" x="797" y="1849" width="409" height="439"/>
+	<SubTexture name="BF MII dies0027" x="1206" y="1849" width="407" height="434" frameX="-2" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0028" x="1206" y="1849" width="407" height="434" frameX="-2" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0029" x="1613" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0030" x="1613" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0031" x="2018" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0032" x="2018" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0033" x="2018" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0034" x="2018" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0035" x="2423" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0036" x="2828" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0037" x="3233" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0038" x="3638" y="1849" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0039" x="0" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0040" x="405" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0041" x="810" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0042" x="1215" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0043" x="1620" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0044" x="2025" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0045" x="2430" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0046" x="2835" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0047" x="3240" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0048" x="3645" y="2288" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0049" x="0" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0050" x="405" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0051" x="810" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0052" x="1215" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0053" x="1620" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0054" x="1620" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0055" x="1620" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0056" x="1620" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+	<SubTexture name="BF MII dies0057" x="1620" y="2723" width="405" height="435" frameX="-4" frameY="0" frameWidth="409" frameHeight="439"/>
+</TextureAtlas>

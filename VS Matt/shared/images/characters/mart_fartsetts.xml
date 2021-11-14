@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mart_fartsetts.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mart down0000" x="0" y="0" width="293" height="247" frameX="0" frameY="-8" frameWidth="293" frameHeight="255"/>
+	<SubTexture name="mart down0001" x="0" y="0" width="293" height="247" frameX="0" frameY="-8" frameWidth="293" frameHeight="255"/>
+	<SubTexture name="mart down0002" x="293" y="0" width="289" height="255" frameX="-3" frameY="0" frameWidth="293" frameHeight="255"/>
+	<SubTexture name="mart down0003" x="293" y="0" width="289" height="255" frameX="-3" frameY="0" frameWidth="293" frameHeight="255"/>
+	<SubTexture name="mart down0004" x="293" y="0" width="289" height="255" frameX="-3" frameY="0" frameWidth="293" frameHeight="255"/>
+	<SubTexture name="mart idle0000" x="582" y="0" width="354" height="223" frameX="0" frameY="-66" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0001" x="582" y="0" width="354" height="223" frameX="0" frameY="-66" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0002" x="0" y="255" width="323" height="246" frameX="-11" frameY="-43" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0003" x="0" y="255" width="323" height="246" frameX="-11" frameY="-43" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0004" x="323" y="255" width="302" height="269" frameX="-19" frameY="-20" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0005" x="323" y="255" width="302" height="269" frameX="-19" frameY="-20" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0006" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0007" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0008" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0009" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0010" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0011" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0012" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart idle0013" x="625" y="255" width="289" height="289" frameX="-31" frameY="0" frameWidth="354" frameHeight="289"/>
+	<SubTexture name="mart left0000" x="0" y="544" width="307" height="289" frameX="0" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0001" x="0" y="544" width="307" height="289" frameX="0" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0002" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0003" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0004" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0005" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0006" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0007" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0008" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0009" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0010" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0011" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0012" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart left0013" x="307" y="544" width="310" height="289" frameX="-3" frameY="0" frameWidth="313" frameHeight="289"/>
+	<SubTexture name="mart right0000" x="617" y="544" width="310" height="289" frameX="-1" frameY="0" frameWidth="311" frameHeight="289"/>
+	<SubTexture name="mart right0001" x="617" y="544" width="310" height="289" frameX="-1" frameY="0" frameWidth="311" frameHeight="289"/>
+	<SubTexture name="mart right0002" x="0" y="833" width="307" height="289" frameX="0" frameY="0" frameWidth="311" frameHeight="289"/>
+	<SubTexture name="mart right0003" x="0" y="833" width="307" height="289" frameX="0" frameY="0" frameWidth="311" frameHeight="289"/>
+	<SubTexture name="mart right0004" x="0" y="833" width="307" height="289" frameX="0" frameY="0" frameWidth="311" frameHeight="289"/>
+	<SubTexture name="mart troll0000" x="307" y="833" width="256" height="161" frameX="0" frameY="-175" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0001" x="563" y="833" width="225" height="213" frameX="-19" frameY="-123" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0002" x="788" y="833" width="216" height="336" frameX="-31" frameY="0" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0003" x="0" y="1169" width="222" height="315" frameX="-26" frameY="-21" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0004" x="222" y="1169" width="221" height="296" frameX="-26" frameY="-40" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0005" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0006" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0007" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0008" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0009" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0010" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0011" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0012" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0013" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart troll0014" x="443" y="1169" width="222" height="315" frameX="-27" frameY="-20" frameWidth="256" frameHeight="336"/>
+	<SubTexture name="mart up0000" x="665" y="1169" width="288" height="315" frameX="-2" frameY="0" frameWidth="293" frameHeight="315"/>
+	<SubTexture name="mart up0001" x="665" y="1169" width="288" height="315" frameX="-2" frameY="0" frameWidth="293" frameHeight="315"/>
+	<SubTexture name="mart up0002" x="0" y="1484" width="293" height="310" frameX="0" frameY="-5" frameWidth="293" frameHeight="315"/>
+	<SubTexture name="mart up0003" x="0" y="1484" width="293" height="310" frameX="0" frameY="-5" frameWidth="293" frameHeight="315"/>
+	<SubTexture name="mart up0004" x="0" y="1484" width="293" height="310" frameX="0" frameY="-5" frameWidth="293" frameHeight="315"/>
+</TextureAtlas>

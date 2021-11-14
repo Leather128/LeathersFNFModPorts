@@ -6,6 +6,7 @@
     "barColor": [81, 201, 219],
     "offsetsFlipWhenEnemy": true,
     "offsetsFlipWhenPlayer": false,
+    "deathCharacter": "bfmii-dead",
     "animations": [
         {
             "name": "idle",
@@ -59,6 +60,12 @@
             "name": "singRIGHTmiss",
             "animation_name": "BF NOTE RIGHT MISS",
             "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "hit",
+            "animation_name": "BF hit",
+            "fps": 20,
             "looped": false
         }
     ]

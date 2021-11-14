@@ -3,3 +3,9 @@ Ruckus:matt:0:Easy,Normal,Hard,Old:#FF8C00
 Target Practice:matt:0:Easy,Normal,Hard,Old:#FF8C00
 Sporting:mattmad:1:Easy,Normal,Hard:#FF8C00
 Boxing Match:mattmad:1:Easy,Normal,Hard:#FF8C00
+Fisticuffs:mattbox:0:Easy,Normal,Hard:#FF8C00
+Wind-Up:mattbox:0:Easy,Normal,Hard:#FF8C00
+Deathmatch:matt:0:Easy,Normal,Hard:#FF8C00
+King-Hit:matt:0:Easy,Normal,Hard:#FF8C00
+TKO:matt:0:Easy,Normal,Hard:#FF8C00
+King-Hit-FeFe:mart:0:Easy,Normal,Hard:#8C8CA1

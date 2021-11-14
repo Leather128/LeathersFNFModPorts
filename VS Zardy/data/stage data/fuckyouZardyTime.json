@@ -1,0 +1,27 @@
+{
+    "character_Positions":[
+        [1000, 1050],
+        [200, 1050],
+        [600, 950]
+    ],
+    "camera_Zoom": 0.9,
+    "objects": [
+        {
+            "position":[-600, -200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "Maze",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "Maze",
+                    "animation_name": "Stage",
+                    "fps": 16,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "Maze"
+        }
+    ]
+}

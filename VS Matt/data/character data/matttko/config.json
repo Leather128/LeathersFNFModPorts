@@ -1,0 +1,40 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "matt_tko",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 140, 0],
+    "healthIcon": "matt",
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Mart ChillIdle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Mart ChillLeft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Mart ChillDown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Mart ChillUp",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Mart ChillRight",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

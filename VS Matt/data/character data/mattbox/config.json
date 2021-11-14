@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "matt_box",
+    "spritesheetType": "SPARROW",
+    "barColor": [255, 140, 0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Matt BoxIdle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Matt BoxLeft",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Matt BoxDown",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Matt BoxUp",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Matt BoxRight",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}
