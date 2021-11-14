@@ -5,3 +5,7 @@ rshaggy:vsshaggy
 wbshaggy:vsshaggy
 zshaggy:vsshaggy
 bmatt:vsshaggy
+godshaggy:vsshaggy
+godmatt:vsshaggy
+shaggymatt:vsshaggy
+godshaggymatt:vsshaggy

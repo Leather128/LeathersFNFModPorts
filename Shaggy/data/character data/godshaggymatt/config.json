@@ -1,0 +1,14 @@
+{
+    "cameraOffset": [-40, -250],
+    "barColor": [0, 0, 0],
+    "characters": [
+        {
+            "name": "godshaggy",
+            "positionOffset": [0,0]
+        },
+        {
+            "name": "godmatt",
+            "positionOffset": [-325,0]
+        }
+    ]
+}

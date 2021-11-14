@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": true,
+    "imagePath": "god_shaggy",
+    "spritesheetType": "SPARROW",
+    "barColor": [0, 0, 0],
+    "animations": [
+        {
+            "name": "danceLeft",
+            "animation_name": "shaggy_idle0",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "danceRight",
+            "animation_name": "shaggy_idle2",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "shaggy_left",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "shaggy_down",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "shaggy_up",
+            "fps": 30,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "shaggy_right",
+            "fps": 30,
+            "looped": false
+        }
+    ]
+}

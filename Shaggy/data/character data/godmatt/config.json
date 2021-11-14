@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "god_matt",
+    "spritesheetType": "SPARROW",
+    "barColor": [0, 0, 0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "matt idle0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "matt left note0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "matt down note0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "matt up note0",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "matt right note0",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}
