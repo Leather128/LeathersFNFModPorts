@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "PizzaMan",
+    "spritesheetType": "SPARROW",
+    "barColor": [198, 198, 195],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "PizzasHere",
+            "fps": 29,
+            "looped": true
+        },
+        {
+            "name": "fall",
+            "animation_name": "PizzasHere",
+            "fps": 29,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Left",
+            "fps": 29,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Down",
+            "fps": 29,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Up",
+            "fps": 29,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Right",
+            "fps": 29,
+            "looped": false
+        }
+    ]
+}

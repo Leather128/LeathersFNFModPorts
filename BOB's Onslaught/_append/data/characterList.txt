@@ -1,0 +1,8 @@
+bob:bob
+angrybob:bob
+hellbob:bob
+ron:bob
+gloop-bob:bob
+glitched-bob:bob
+little-man:bob
+pizza-guy:bob

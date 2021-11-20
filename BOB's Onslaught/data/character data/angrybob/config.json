@@ -1,0 +1,40 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "angrybob_asset",
+    "spritesheetType": "SPARROW",
+    "positionOffset": [-25,90],
+    "barColor": [255,255,255],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "bob_idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "bob_LEFT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "bob_DOWN",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "bob_UP",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "bob_RIGHT",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

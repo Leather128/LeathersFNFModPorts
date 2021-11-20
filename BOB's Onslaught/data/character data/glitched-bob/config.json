@@ -1,0 +1,40 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "ScaryBobAaaaah",
+    "spritesheetType": "SPARROW",
+    "positionOffset": [-25,90],
+    "barColor": [12,12,12],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "idle???-",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

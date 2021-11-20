@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "ron",
+    "spritesheetType": "SPARROW",
+    "barColor": [255,216,0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Idle",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Sing Left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Sing Down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Sing Up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "Sing Right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "cheer",
+            "animation_name": "Ugh",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "hellbob_assets",
+    "spritesheetType": "SPARROW",
+    "barColor": [0,0,0],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "bobismad",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "lol",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "lol",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "lol",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "lol",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+Sunshine:bob:0:Easy,Normal,Hard:#FFFFFF
+Withered:angrybob:0:Easy,Normal,Hard:#FFFFFF
+run:hellbob:0:Easy,Normal,Hard,400 notes per second lol,Your Gonna Die,seriously you should run away from your pc after picking this chart because of how many notes are on it:#000000
+Ron:ron:0:Easy,Normal,Hard,7 Key:#FFD800
+Trouble:gloop-bob:0:Easy,Normal,Hard:#424242
+Onslaught:glitched-bob:0:Easy,Normal,Hard:#121212
+Little-man:little-man:0:Easy,Normal,Hard:#FFFFFF
