@@ -1,0 +1,27 @@
+{
+    "groupName": "Garcello",
+    "pathName": "garcello",
+    "weeks": [
+        {
+            "imagePath": "weekG",
+            "songs": [
+                "Headache",
+                "Nerves",
+                "Release",
+                "Fading"
+            ],
+            "characters": [
+                "garcello",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Smoke 'Em Out Struggle",
+            "backgroundColor":[0, 255, 144],
+            "difficulties": [
+                ["easy", "default/easy"],
+                ["normal", "default/normal"],
+                ["hard", "default/hard"]
+            ]
+        }
+    ]
+}

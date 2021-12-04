@@ -1,0 +1,46 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "garcelloghosty_assets",
+    "spritesheetType": "SPARROW",
+    "barColor":  [255, 255, 255],
+    "positionOffset": [0, 50],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "garcello idle dance",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "garcello Sing Note LEFT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "garcello Sing Note DOWN",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "garcello Sing Note UP",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "garcello Sing Note RIGHT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "garFarewell",
+            "animation_name": "garcello coolguy",
+            "fps": 15,
+            "looped": false
+        }
+    ]
+}

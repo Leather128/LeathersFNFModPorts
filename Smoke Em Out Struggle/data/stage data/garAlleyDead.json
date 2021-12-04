@@ -1,0 +1,73 @@
+{
+    "character_Positions":[
+        [1200, 850],
+        [500, 850],
+        [800, 800]
+    ],
+    "camera_Zoom": 0.9,
+    "objects": [
+        {
+            "position":[-500, -170],
+            "scroll_Factor": [0.7, 0.7],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "garStagebgAlt",
+            "is_Animated": false
+        },
+        {
+            "position":[0, -290],
+            "scroll_Factor": [0.7, 0.7],
+            "uses_Frame_Width": true,
+            "scale": 1.7,
+            "antialiased": true,
+            "file_Name": "garSmoke",
+            "alpha": 0.3,
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "garsmoke",
+                    "animation_name": "smokey",
+                    "fps": 13,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "garsmoke",
+            "updateHitbox": false
+        },
+        {
+            "position":[-500, -200],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "garStagealt",
+            "is_Animated": false
+        },
+        {
+            "position":[-230, 540],
+            "scroll_Factor": [0.9, 0.9],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "gardead",
+            "is_Animated": false
+        },
+        {
+            "position":[0, 0],
+            "scroll_Factor": [1.1, 1.1],
+            "scale": 1.6,
+            "antialiased": true,
+            "file_Name": "garSmoke",
+            "is_Animated": true,
+            "animations": [
+                {
+                    "name": "garsmoke",
+                    "animation_name": "smokey",
+                    "fps": 15,
+                    "looped": true
+                }
+            ],
+            "start_Animation": "garsmoke",
+            "layer": "foreground",
+            "updateHitbox": false
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+Headache:garcello:1:Easy,Normal,Hard:#00FF90
+Nerves:garcellotired:1:Easy,Normal,Hard:#00FF90
+Release:garcellodead:1:Easy,Normal,Hard:#FFFFFF
+Fading:garcelloghosty:1:Easy,Normal,Hard:#FFFFFF

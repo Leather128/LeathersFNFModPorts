@@ -1,0 +1,64 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "garcellotired_assets",
+    "spritesheetType": "SPARROW",
+    "barColor":  [0, 255, 144],
+    "positionOffset": [0, 50],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "garcellotired idle dance",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "garcellotired Sing Note LEFT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "garcellotired Sing Note DOWN",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "garcellotired Sing Note UP",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "garcellotired Sing Note RIGHT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT-alt",
+            "animation_name": "garcellotired Sing Note LEFT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN-alt",
+            "animation_name": "garcellotired cough",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP-alt",
+            "animation_name": "garcellotired Sing Note UP",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT-alt",
+            "animation_name": "garcellotired Sing Note RIGHT",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

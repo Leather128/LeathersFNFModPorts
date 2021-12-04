@@ -1,0 +1,9 @@
+{
+    "Animation_Name": "garcello idle",
+    "Animation_Looped": true,
+    "FPS": 24,
+    "Size": 0.6,
+    "Offsets": [120, 25],
+    "File_Name": "garcello/garcello",
+    "Flipped": false
+}
