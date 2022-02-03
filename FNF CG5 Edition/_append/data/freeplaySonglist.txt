@@ -1,0 +1,4 @@
+Tutorial CG5 Remix:gf:0:Easy,Normal,Hard:#B72863
+Gimme A Break:cg5:1:Easy,Normal,Hard:#FF5054
+Man On Stilts:cg5:1:Easy,Normal,Hard:#FF5054
+Knock Knock:cg5:1:Easy,Normal,Hard:#FF5054

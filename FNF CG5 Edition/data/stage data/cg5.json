@@ -1,0 +1,77 @@
+{
+	"objects": [
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				282,
+				111
+			],
+			"file_Name": "mixroom",
+			"scale": 0.85
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				1641,
+				530
+			],
+			"file_Name": "ploosh",
+			"scale": 1
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				284,
+				111
+			],
+			"file_Name": "recordroom",
+			"scale": 0.85,
+			"layer": "gf"
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				282,
+				111
+			],
+			"file_Name": "room lights",
+			"scale": 0.85,
+			"layer": "gf"
+		}
+	],
+	"character_Positions": [
+		[
+			1752,
+			1168
+		],
+		[
+			1027,
+			1177
+		],
+		[
+			1402,
+			880
+		]
+	],
+	"camera_Zoom": 0.925
+}
