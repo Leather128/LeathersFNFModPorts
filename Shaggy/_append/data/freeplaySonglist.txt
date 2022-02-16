@@ -1,7 +1,7 @@
-Whats New:shaggy:1:Easy,Normal,Hard:#33724A
+Where Are You:shaggy:1:Easy,Normal,Hard:#33724A
 Eruption:shaggy:1:Easy,Normal,Hard:#33724A
 Kaio Ken:sshaggy:1:Easy,Normal,Hard:#33724A
-Where Are You:shaggy:2:Easy,Normal,Hard:#33724A
+Whats New:shaggy:2:Easy,Normal,Hard:#33724A
 Blast:sshaggy:2:Easy,Normal,Hard:#33724A
 Super Saiyan:sshaggy:2:Easy,Normal,Hard:#33724A
 GOD EATER:pshaggy:3:Easy,Normal,Hard:#4B3372

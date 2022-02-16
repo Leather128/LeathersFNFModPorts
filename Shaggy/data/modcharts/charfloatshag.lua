@@ -9,8 +9,6 @@ local rock_Stuff = {
 }
 
 function start (song)
-	print("Song: " .. song .. " @ " .. bpm .. " downscroll: " .. downscroll)
-	
 	window = 240
 
 	for i=start_Rock_Num, end_Rock_Num do
