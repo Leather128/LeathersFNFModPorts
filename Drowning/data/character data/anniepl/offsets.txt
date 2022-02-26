@@ -1,0 +1,6 @@
+idle 4 5
+drinkle 0 0
+singDOWN 10 12
+singRIGHT -25 9
+singUP 14 10
+singLEFT -13 10

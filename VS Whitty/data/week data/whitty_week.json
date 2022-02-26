@@ -1,0 +1,20 @@
+{
+    "groupName": "VS Whitty",
+    "pathName": "whitty",
+    "weeks": [
+        {
+            "imagePath": "bonusWeek",
+            "songs": [
+                "Lo Fight",
+                "Overhead",
+                "Ballistic"
+            ],
+            "characters": [
+                "whitty",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Whitty"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "defaultFlipX": true,
+    "dancesLeftAndRight": false,
+    "imagePath": "anniepl",
+    "spritesheetType": "SPARROW",
+    "barColor":  [
+        255,
+		32,
+		67
+    ],
+    "healthIcon": "annie",
+    "offsetsFlipWhenPlayer": false,
+    "offsetsFlipWhenEnemy": false,
+    "swapDirectionSingWhenPlayer": false,
+    "cameraOffset": [-250, 25],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "annie idle",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "annie left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "annie down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "annie up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "annie right",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "drinkle",
+            "animation_name": "annie special",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

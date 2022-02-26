@@ -1,0 +1,44 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "WhittyCrazy",
+    "spritesheetType": "SPARROW",
+    "healthIcon": "whitty-crazy",
+    "barColor": [
+		215,
+		0,
+		40
+    ],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "Whitty idle dance",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "Whitty Sing Note LEFT",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "Whitty Sing Note DOWN",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "Whitty Sing Note UP",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "whitty sing note right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

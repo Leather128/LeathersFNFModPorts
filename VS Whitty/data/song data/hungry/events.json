@@ -1,0 +1,229 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "hungry",
+		"player1": "minimum_bf",
+		"player2": "hunger",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"670s",
+						"430"
+					]
+				]
+			],
+			[
+				9896.90721649484,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14845.3608247423,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				15773.1958762887,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				16701.0309278351,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				19793.8144329897,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				20721.6494845361,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				22268.0412371134,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				23195.8762886598,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24742.2680412371,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34639.175257732,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44536.0824742268,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45463.9175257732,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46391.7525773196,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				49484.5360824742,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50412.3711340206,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51958.7628865979,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52886.5979381443,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54432.9896907216,
+				[
+					[
+						"Add Camera Zoom",
+						"0.09",
+						"0"
+					],
+					[
+						"Camera Follow Pos",
+						"530",
+						"380"
+					],
+					[
+						"Play Animation",
+						"bruh",
+						"Dad"
+					],
+					[
+						"Set Cam Zoom",
+						"2.8",
+						"7.8"
+					],
+					[
+						"gagaboobs",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_JUICY",
+		"bpm": 97,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "hungry"
+	}
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the swag wall.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wal style change0000" x="0" y="0" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0001" x="0" y="0" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0002" x="0" y="0" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0003" x="0" y="0" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0004" x="3367" y="0" width="3369" height="1289" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0005" x="3367" y="0" width="3369" height="1289" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0006" x="3367" y="0" width="3369" height="1289" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0007" x="3367" y="0" width="3369" height="1289" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0008" x="0" y="1299" width="3395" height="1283" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0009" x="0" y="1299" width="3395" height="1283" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0010" x="0" y="1299" width="3395" height="1283" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0011" x="0" y="1299" width="3395" height="1283" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0012" x="3405" y="1299" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0013" x="3405" y="1299" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0014" x="3405" y="1299" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+	<SubTexture name="wal style change0015" x="3405" y="1299" width="3357" height="1277" frameX="0" frameY="0" frameWidth="3395" frameHeight="1289"/>
+</TextureAtlas>

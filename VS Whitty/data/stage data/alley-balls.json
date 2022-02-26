@@ -1,0 +1,55 @@
+{
+	"scriptName": "alley-balls",
+	"character_Positions": [
+		[
+			1215,
+			863
+		],
+		[
+			460,
+			896
+		],
+		[
+			870,
+			796
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": true,
+			"position": [
+				-470,
+				-160
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "BallisticBackground",
+			"animations": [
+                {
+                    "name": "loop",
+                    "animation_name": "Background Whitty Moving",
+                    "fps": 24,
+                    "looped": true
+                },
+				{
+                    "name": "start",
+                    "animation_name": "Background Whitty Start0",
+                    "fps": 24,
+                    "looped": true
+                },
+				{
+                    "name": "go",
+                    "animation_name": "Background Whitty Startup",
+                    "fps": 24,
+                    "looped": false
+                }
+            ],
+            "start_Animation": "loop"
+		}
+	],
+	"camera_Zoom": 0.8
+}

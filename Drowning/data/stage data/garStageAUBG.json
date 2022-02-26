@@ -1,0 +1,26 @@
+{
+    "character_Positions":[
+        [1100, 890],
+        [300, 950],
+        [600, 850]
+    ],
+    "camera_Zoom": 0.9,
+    "objects": [
+        {
+            "position":[-600, -140],
+            "scroll_Factor": [0.8, 0.8],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "garStageAUBG",
+            "is_Animated": false
+        },
+        {
+            "position":[-600, -140],
+            "scroll_Factor": [1, 1],
+            "scale": 1,
+            "antialiased": true,
+            "file_Name": "garStageAU",
+            "is_Animated": false
+        }
+    ]
+}

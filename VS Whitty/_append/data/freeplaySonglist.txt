@@ -1,0 +1,8 @@
+Lo Fight:whitty:0:Easy,Normal,Hard:#1D1E35
+Overhead:whitty:0:Easy,Normal,Hard:#1D1E35
+Ballistic:whitty-crazy:0:Easy,Normal,Hard:#CE002C
+Ballistic Remix:whitty-crazy:0:Easy,Normal,Hard:#CE002C
+Underground:white:1:Easy,Normal,Hard:#FF7B00
+Low Rise:white:1:Easy,Normal,Hard:#FF7B00
+Hungry:white:1:Easy,Normal,Hard:#FF7B00
+Faucet:4fuck:1:Normal:#109200

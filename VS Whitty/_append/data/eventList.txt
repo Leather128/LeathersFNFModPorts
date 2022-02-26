@@ -1,0 +1,3 @@
+Set Cam Zoom~Camera Zoom~Time In Seconds
+Cam Boom Speed~Camera Bounce Every [this argument] Beats~Camera Bounce Modifier
+gagaboobs~Throws funny shirt~Both values do nothing

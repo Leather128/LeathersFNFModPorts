@@ -1,0 +1,45 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "testis",
+    "spritesheetType": "SPARROW",
+    "healthIcon": "white",
+    "barColor": [
+        255,
+		120,
+		0
+    ],
+    "cameraOffset": [60, -10],
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "whitty idle",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "whitty left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "whitty down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "whitty up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "whitty right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+	"scriptName": "better",
+	"objects": [
+		{
+			"is_Animated": true,
+			"scroll_Factor": [
+				0.9,
+				0.9
+			],
+			"position": [
+				-870,
+				-360
+			],
+			"scale": 1,
+			"object_Name": "swag_wall",
+			"antialiased": true,
+			"file_Name": "tha_swag_wal",
+			"animations": [
+				{
+					"animation_name": "wal style change",
+					"looped": true,
+					"fps": 24,
+					"name": "loop"
+				}
+			],
+			"start_Animation": "loop"
+		},
+		{
+			"is_Animated": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-600,
+				-350
+			],
+			"scale": 1,
+			"object_Name": "swag_ground",
+			"antialiased": true,
+			"file_Name": "tha_cool_groun",
+			"animations": [
+				{
+					"animation_name": "flo style change",
+					"looped": true,
+					"fps": 24,
+					"name": "loop"
+				}
+			],
+			"start_Animation": "loop"
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				0.9,
+				0.9
+			],
+			"position": [
+				-870,
+				-360
+			],
+			"file_Name": "thawal",
+			"scale": 1,
+			"object_Name": "reg_wall"
+		},
+		{
+			"is_Animated": false,
+			"antialiased": true,
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"position": [
+				-600,
+				-350
+			],
+			"file_Name": "thagroun",
+			"scale": 1,
+			"object_Name": "reg_ground"
+		}
+	],
+	"character_Positions": [
+		[
+			1291,
+			914
+		],
+		[
+			467,
+			970
+		],
+		[
+			941,
+			800
+		]
+	],
+	"camera_Zoom": 0.7
+}

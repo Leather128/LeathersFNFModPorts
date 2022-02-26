@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...Who-",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "WhiteOG"
+		},
+		{
+			"expression": "talk",
+			"text": "Skeep doop",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, it's you.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "WhiteOG"
+		},
+		{
+			"expression": "talk",
+			"text": "You're with her...",
+			"boxState": "normal",
+			"portrait": "WhiteOG",
+			"speed": 0.07
+		},
+		{
+			"expression": "talk",
+			"text": "Would both of you kindly leave me alone? I don't want anyone knowin' I'm here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "WhiteOG"
+		},
+		{
+			"expression": "talk",
+			"text": "Bip boop beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...Listen, I ain't lookin' for trouble tonight, I haven't sang since my music was stolen from me.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "WhiteOG"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "whiteog",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just leave and all will be cool."
+		},
+		{
+			"expression": "talk",
+			"text": "Beepo bap skeboop",
+			"boxState": "normal",
+			"speed": 0.065,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.215,
+			"portrait": "WhiteOG-Pissed"
+		}
+	]
+}

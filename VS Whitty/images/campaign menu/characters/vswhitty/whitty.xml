@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whitty.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle instance 10000" x="207" y="0" width="203" height="374" frameX="0" frameY="-1" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10001" x="207" y="0" width="203" height="374" frameX="0" frameY="-1" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10002" x="0" y="0" width="207" height="370" frameX="0" frameY="-5" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10003" x="0" y="0" width="207" height="370" frameX="0" frameY="-5" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10004" x="410" y="0" width="204" height="371" frameX="0" frameY="-4" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10005" x="410" y="0" width="204" height="371" frameX="0" frameY="-4" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10006" x="614" y="0" width="204" height="369" frameX="0" frameY="-6" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10007" x="614" y="0" width="204" height="369" frameX="0" frameY="-6" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10008" x="818" y="0" width="200" height="375" frameX="-3" frameY="0" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10009" x="818" y="0" width="200" height="375" frameX="-3" frameY="0" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10010" x="207" y="0" width="203" height="374" frameX="0" frameY="-1" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10011" x="207" y="0" width="203" height="374" frameX="0" frameY="-1" frameWidth="207" frameHeight="375"/>
+	<SubTexture name="Idle instance 10012" x="207" y="0" width="203" height="374" frameX="0" frameY="-1" frameWidth="207" frameHeight="375"/>
+</TextureAtlas>

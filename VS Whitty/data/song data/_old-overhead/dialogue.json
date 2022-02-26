@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.045,
+			"portrait": "WhiteOG-Pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I see how we're playing this game of yours."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Brep bappity boop"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "WhiteOG-Pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're REALLY pushing my limits here, dude."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bip bep skoo de boop"
+		},
+		{
+			"speed": 0.06,
+			"portrait": "WhiteOG-Pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well how about you go die in a ditch instead?"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bepoobee skoop"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "WhiteOG-Pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Don't make me do this."
+		}
+	]
+}

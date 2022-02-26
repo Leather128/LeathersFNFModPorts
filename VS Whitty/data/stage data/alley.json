@@ -1,0 +1,47 @@
+{
+	"character_Positions": [
+		[
+			1215,
+			863
+		],
+		[
+			460,
+			896
+		],
+		[
+			870,
+			796
+		]
+	],
+	"objects": [
+		{
+			"is_Animated": false,
+			"position": [
+				-420,
+				-130
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "whittyBack"
+		},
+		{
+			"is_Animated": false,
+			"position": [
+				-300,
+				670
+			],
+			"scroll_Factor": [
+				1,
+				1
+			],
+			"antialiased": true,
+			"scale": 1,
+			"file_Name": "whittyFront"
+		}
+	],
+	"camera_Zoom": 0.8
+}

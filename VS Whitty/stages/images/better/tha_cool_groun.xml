@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the cool floor.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flo style change0000" x="0" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0001" x="0" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0002" x="0" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0003" x="0" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0004" x="3121" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0005" x="3121" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0006" x="3121" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0007" x="3121" y="0" width="3111" height="1627"/>
+	<SubTexture name="flo style change0008" x="0" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0009" x="0" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0010" x="0" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0011" x="0" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0012" x="3121" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0013" x="3121" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0014" x="3121" y="1637" width="3111" height="1627"/>
+	<SubTexture name="flo style change0015" x="3121" y="1637" width="3111" height="1627"/>
+</TextureAtlas>

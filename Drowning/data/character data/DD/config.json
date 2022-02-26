@@ -1,0 +1,48 @@
+{
+    "defaultFlipX": false,
+    "dancesLeftAndRight": false,
+    "imagePath": "DD",
+    "spritesheetType": "SPARROW",
+    "barColor":  [
+		175,
+		102,
+		206
+    ],
+    "healthIcon": "dd",
+    "offsetsFlipWhenPlayer": false,
+    "positionOffset": [-550, -400],
+    "cameraOffset": [685, 415],
+    "graphicsSize": 1.1,
+    "animations": [
+        {
+            "name": "idle",
+            "animation_name": "dd idle",
+            "fps": 24,
+            "looped": true
+        },
+        {
+            "name": "singLEFT",
+            "animation_name": "dd left",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singDOWN",
+            "animation_name": "dd down",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singUP",
+            "animation_name": "dd up",
+            "fps": 24,
+            "looped": false
+        },
+        {
+            "name": "singRIGHT",
+            "animation_name": "dd right",
+            "fps": 24,
+            "looped": false
+        }
+    ]
+}

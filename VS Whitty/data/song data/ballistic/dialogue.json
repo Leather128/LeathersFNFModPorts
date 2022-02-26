@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "ENOUGH.",
+			"boxState": "angry",
+			"speed": 0.02,
+			"portrait": "WhiteOGballs"
+		},
+		{
+			"expression": "talk",
+			"text": "YOU'VE PUSHED ME TO MY BOILING POINT.",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "whiteogballs"
+		},
+		{
+			"expression": "talk",
+			"text": "INSTEAD OF HIDING FROM MY AVERAGE IMPENDING DEMISE, I HAVE TO DETONATE SOME BLUE HAIRED BASTARD.",
+			"boxState": "angry",
+			"speed": 0.045,
+			"portrait": "whiteogballs"
+		},
+		{
+			"expression": "talk",
+			"text": "You know what, I might enjoy atomizing that hack's daughter.",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "Whiteogballs"
+		},
+		{
+			"expression": "shocked",
+			"text": "Poh brap",
+			"boxState": "normal",
+			"speed": 0.025,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You screwed yourself now, asshole.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "whiteogballs"
+		},
+		{
+			"expression": "talk",
+			"text": "Curse you, curse you and the filth that brought you into this world.",
+			"boxState": "normal",
+			"speed": 0.075,
+			"portrait": "WhiteOGballs"
+		}
+	]
+}
