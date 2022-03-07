@@ -9,3 +9,4 @@ godshaggy:vsshaggy
 godmatt:vsshaggy
 shaggymatt:vsshaggy
 godshaggymatt:vsshaggy
+spamton:vsshaggy

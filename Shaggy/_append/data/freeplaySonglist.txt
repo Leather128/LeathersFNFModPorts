@@ -11,5 +11,6 @@ Final Destination:shaggymatt:4:Normal,Hard,God:#FF8C00
 Soothing Power:rshaggy:5:Easy,Normal,Hard:#D11A1A
 Thunderstorm:rshaggy:5:Easy,Normal,Hard:#D11A1A
 Dissasembler:rshaggy:5:Easy,Normal,Hard:#D11A1A
-Astral Calamity:wbshaggy:6:Normal,Hard:#0F0F0F
-Talladega:zshaggy:6:Normal,Hard:#144800
+Astral Calamity:wbshaggy:6:Easy,Normal,Hard:#0F0F0F
+Talladega:zshaggy:6:Easy,Normal,Hard:#144800
+BIG SHOT:spamton:7:Easy,Normal,Hard:#333333
