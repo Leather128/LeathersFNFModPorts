@@ -9,12 +9,13 @@ end
 function stepHit (step)
     if step == 1912 then
         tweenFadeOut("dad", 0, 1)
+        tweenFadeOut("iconP2", 0, 1)
     end
 
     if step == 1984 then
-        changeDadCharacter("cableCrowPog")
         setActorAlpha(0, "dad")
         tweenFadeOut("dad", 1, 1)
+        tweenFadeOut("iconP2", 1, 1)
     end
 end
 
